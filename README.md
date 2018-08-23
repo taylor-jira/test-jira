@@ -2,4 +2,5 @@
 
 jira test
 
-Make one update
+Make one update.
+Second update.
